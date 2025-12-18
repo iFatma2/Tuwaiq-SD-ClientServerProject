@@ -23,7 +23,7 @@ Messages are stored in memory and displayed on a simple web page.
 
 **Technologies:** Python, Tkinter, Flask, Threading
 
-**File:** `python_messenger.py`
+**File:** `chat.py`
 
 
 https://github.com/user-attachments/assets/f0ad9f9a-c01d-4a3c-8cae-e45793af3401
@@ -46,7 +46,7 @@ Supports writing subject, body, and attaching files.
 
 **Technologies:** Python, Tkinter, SMTP, EmailMessage
 
-**File:** `python_email_sender.py`
+**File:** `EmailSender.py`
 
 ---
 
@@ -63,7 +63,7 @@ An iOS app built with SwiftUI to send messages from iPhone via SMS, Email, or Ai
 
 **Technologies:** SwiftUI, MessageUI, UIActivityViewController
 
-**File:** `SwiftUI_MessageApp.swift`
+**File:** `ContentView.swift`
 
 
 https://github.com/user-attachments/assets/b7cba96d-fbe1-452c-aaaf-f61e7d973b5d
